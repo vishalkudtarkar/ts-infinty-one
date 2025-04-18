@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Yu Gothic UI Semibold";
+   src: url("fonts/Yu Gothic UI Semibold.woff") format("woff"), url("fonts/Yu Gothic UI Semibold.eot") format("embedded-opentype"), url("fonts/Yu Gothic UI Semibold.ttf") format("truetype"), url("fonts/Yu Gothic UI Semibold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Nexa Book";
+   src: url("fonts/Nexa-Book.woff") format("woff"), url("fonts/Nexa-Book.eot") format("embedded-opentype"), url("fonts/Nexa-Book.OTF") format("truetype");
+   font-weight: normal;
+   font-style: normal;
+}
